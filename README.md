@@ -40,8 +40,8 @@ Excel
 ![RCA](Images/RCA.png)
 ### 👥 Customer Segmentation
 ![RFM](Images/RFM.png)
-### 👥 Forecasting
-![RFM](Images/Forecasting.png)
+### 🔮 Forecasting Analysis
+![Forecasting](Images/Forecasting.png)
 
 ## 🚀 Author
 Mustafa Ahmed

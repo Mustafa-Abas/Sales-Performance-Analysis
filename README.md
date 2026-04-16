@@ -37,7 +37,7 @@ DAX (Data Analysis Expressions)
 Excel
 
 ## 📸 Dashboard Preview
-![Dashboard](ReviewAnalysis.png)
+![Dashboard](RevAnalysis.png)
 
 ## 🚀 Author
 Mustafa Ahmed

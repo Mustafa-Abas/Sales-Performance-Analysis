@@ -32,7 +32,10 @@ The analysis provides actionable recommendations to optimize pricing strategies,
 Power BI
 DAX (Data Analysis Expressions)
 Excel
-📸 Dashboard Preview
+
+## 📸 Dashboard Preview
+
+![Dashboard](ReviewAnalysis.png)
 
 ## 🚀 Author
 

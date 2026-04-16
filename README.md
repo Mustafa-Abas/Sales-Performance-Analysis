@@ -38,6 +38,9 @@ Excel
 
 ## 📸 Dashboard Preview
 ![Dashboard](RevAnalysis.png)
+![Dashboard](RCA.png)
+![Dashboard](RFM.png)
+![Dashboard](Forecasting.png)
 
 ## 🚀 Author
 Mustafa Ahmed

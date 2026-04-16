@@ -37,9 +37,9 @@ Excel
 ### 📊 Main Dashboard
 ![Dashboard](Images/RevAnalysis.png)
 ### 🔍 Root Cause Analysis
-![RCA](Images/rca.png)
+![RCA](Images/RCA.png)
 ### 👥 Customer Segmentation
-![RFM](Images/rfm.png)
+![RFM](Images/RFM.png)
 ### 👥 Forecasting
 ![RFM](Images/Forecasting.png)
 

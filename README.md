@@ -28,6 +28,9 @@ Technology category is the top performer in both sales and profit
 
 The analysis provides actionable recommendations to optimize pricing strategies, improve customer retention, and focus on high-performing segments to drive sustainable business growth.
 
+## main Dasboard
+https://github.com/Mustafa-Abas/Sales-Performance-Analysis/blob/main/RevAnalysis.png< view Dasboard>
+
 ## 🛠 Tools & Technologies
 Power BI
 DAX (Data Analysis Expressions)
